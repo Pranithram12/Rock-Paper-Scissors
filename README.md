@@ -2,6 +2,11 @@
 
 A fun and interactive Rock Paper Scissors game developed using HTML, CSS, and JavaScript. This web application allows users to play the classic game against the computer.
 
+URL of the Website:
+```bash
+    https://pranithram12.github.io/Rock-Paper-Scissors/
+```
+
 ## Features
 
 - **Simple Gameplay**: Play Rock Paper Scissors against the computer.
