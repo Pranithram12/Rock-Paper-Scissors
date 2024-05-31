@@ -1,4 +1,4 @@
-
+## Rock Paper Scissors
 
 A fun and interactive Rock Paper Scissors game developed using HTML, CSS, and JavaScript. This web application allows users to play the classic game against the computer.
 
